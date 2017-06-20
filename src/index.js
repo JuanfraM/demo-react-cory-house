@@ -1,3 +1,4 @@
+/* eslint-disable import/default */
 import 'babel-polyfill'; // for those javascript that can be transpile???
 import React from 'react';
 import { render } from 'react-dom';
